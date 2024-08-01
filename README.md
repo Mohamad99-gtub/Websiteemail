@@ -1,2 +1,2 @@
 # Websiteemail
-SAYA ingin membuat website email
+di buat menggunakan html css dan javascript 
